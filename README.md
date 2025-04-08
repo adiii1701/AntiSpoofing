@@ -22,6 +22,8 @@ pip install mediapipe ultralytics cvzone
 ```
 Also to run these codes with better effieiency from CPU to run on GPU, PyTorch locally can be used, check your compatibility and specifications and pip install it to the virtual environment: https://pytorch.org/get-started/locally/
 
+Create the Dataset folder too, with relavent folders shown inside !!
+
 File structure for reference:
 
 
