@@ -15,6 +15,16 @@ Built to be lightweight and responsive, this system is ideal for edge deployment
 To exit the system, users can press the 'q' key, at which point the webcam is released and all OpenCV windows are closed gracefully.
 
 Required installation: pip install mediapipe ultralytics cvzone 
+```bash
+pip install mediapipe ultralytics cvzone
+```
+
+
+
+File structure for reference:
+
+
+![image](https://github.com/user-attachments/assets/49e432bb-ff9e-4c38-b6b4-9be2047fce88)
 
 
 
